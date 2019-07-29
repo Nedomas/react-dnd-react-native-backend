@@ -2,6 +2,7 @@
  * Created by bongio on 09/03/2017.
  */
 import {PanResponder} from 'react-native'
+const supportsPassive = false
 
 export class ReactNativeBackend {
     constructor (manager, options = {}) {
