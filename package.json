@@ -20,9 +20,9 @@
     "url": "https://github.com/mindiply/react-dnd-react-native-backend/issues"
   },
   "homepage": "https://github.com/mindiply/react-dnd-react-native-backend#readme",
-  "dependencies": {
-    "react": "^15.4.2",
-    "react-native": "^0.42.0"
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
   },
   "devDependencies": {
     "eslint": "^3.17.1",
